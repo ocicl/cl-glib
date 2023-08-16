@@ -2,9 +2,8 @@
 
 GLib bindings for Common Lisp.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/bohonghuang/cl-glib.git   |
-| commit  | 9e52827  |
-| systems | cl-glib |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------|
+| source  | git:https://github.com/bohonghuang/cl-glib.git |
+| commit  | 31d8d33                                        |
+| systems | cl-glib                                        |
+|---------+------------------------------------------------|
